@@ -110,12 +110,13 @@ body {
   margin: 0%;
   padding: 0%;
   width: 11vh;
-  height: max-content;
+  height: 11vh;
+
 }
 @media (max-width: 768px) {
   .img-size-covid {
     width: 8vh;
-    height: max-content;
+    height: 8vh;
   }
 }
 .bg-card {
