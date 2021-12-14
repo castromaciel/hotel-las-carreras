@@ -11,7 +11,7 @@ body {
 }
 .inicio {
   background-color: #b54b57;
-  /* position: fixed; */
+  position: fixed;
   bottom: 2%;
   right: 2%;
   z-index: 99;
